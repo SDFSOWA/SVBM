@@ -1,0 +1,12 @@
+[{
+  "modid": "svbm",
+  "name": "SVBM",
+  "description": "Some very big mod...",
+  "version": "1.0.0-alpha.1",
+  "mcversion": "1.12.2",
+  "url": "https://modrinth.com/mod/svbm",
+  "updateUrl": "https://raw.githubusercontent.com/SDFSOWA/SVBM/main/updates.json",
+  "authorList": ["SDFSOWA"],
+  "credits": "Terra Firma Craft, Greg Tech and Farmers Delight for a lot of cool ideas!",
+  "logoFile": "assets\svbm\logo.png"
+}]
